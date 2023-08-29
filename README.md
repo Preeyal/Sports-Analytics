@@ -21,9 +21,13 @@ Our methodology synergistically harnesses Tableau's analytical power and Python'
 The systematic graphical representation is given below. 
 ![image](https://github.com/Preeyal/Sports-Analytics/assets/98450775/f1c0aa00-c9e0-4adf-9723-d75a1fdf4beb)
 # Results
-![image](https://github.com/Preeyal/Sports-Analytics/assets/98450775/fd7af635-3e3b-4208-a922-f93e3be1e329)
+![image](https://github.com/Preeyal/Sports-Analytics/assets/98450775/33b8d28d-1890-42da-98ec-344c29107b6b)
+
 # Conclusion
 Incorporating injury records and player details, our approach provides comprehensive insights into player injuries, encompassing causes, behavior, environment, and positions. By constructing a predictive model, we predict risk factors that helps in safeguarding players' well-being and enhance overall game dynamics
+# Limitation
+![image](https://github.com/Preeyal/Sports-Analytics/assets/98450775/57e78521-ac17-4881-b522-5906a050e0df)
+
 # Software Used:
 Tableau: <a href="https://public.tableau.com/app/profile/preeyal/viz/InjuryinSports/InjuryPreventionDashboard/">Link to the Poster</a>
 Google Colab- For EDA and Machine learning algorithms
