@@ -1,12 +1,8 @@
-# Goal of the Project
+# Objective
 Utilized machine learning to uncover vital injury prevention factors and created an insightful Tableau dashboard, presenting a comprehensive data-driven approach.
 ![image](https://github.com/Preeyal/Sports-Analytics/assets/98450775/3fffc54d-c898-459d-a932-cc81c3bbe0ae)
 # Injury Prevention in Sports Analytics
 Injury prevention in sports requires a comprehensive understanding of various factors, including the type of sport, playing surface, and individual player characteristics.
-
-
-# Draft a 4-step framework to solve the problem
-
 # Use Case
 This project uses datasets from baseball and football games to demonstrate the application of sports analytics in injury prevention for team sports.
 
@@ -16,11 +12,13 @@ This project uses datasets from baseball and football games to demonstrate the a
  **Result: Implement exploratory Data Analytics and develop a  machine learning model based on this Dataset**
 2. _**EPL Baseball Data:**_
    Injury Details: Captures information on player injuries.
-  Hitter/Pitcher: Distinguishes between hitter and pitcher.
-  Duration Analysis: Analyze recovery duration and short/long-term injuries.
-  Position and Team: Study the relation between position, team, and injuries.
+   Hitter/Pitcher: Distinguishes between hitter and pitcher.
+   Duration Analysis: Analyze recovery duration and short/long-term injuries.
+   Position and Team: Study the relation between position, team, and injuries.
  **Result: Developed a Dynamic Visualization comprising most injury factors and their aftermath**
 # Methodology Flow-Chart
+Our methodology synergistically harnesses Tableau's analytical power and Python's versatility, enabling a dynamic exploration and interpretation of complex data patterns.
+The systematic graphical representation is given below. 
 ![image](https://github.com/Preeyal/Sports-Analytics/assets/98450775/f1c0aa00-c9e0-4adf-9723-d75a1fdf4beb)
 # Results
 ![image](https://github.com/Preeyal/Sports-Analytics/assets/98450775/fd7af635-3e3b-4208-a922-f93e3be1e329)
